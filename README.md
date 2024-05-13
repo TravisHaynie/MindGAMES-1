@@ -12,7 +12,9 @@ https://travishaynie.github.io/MindGAMES-1/
 ## sources
 (personal communication with krystal May 12,2024)
 
-[Bootcamt spot xpert learning Assistant](https://bootcampspot.instructure.com/?login_success=1), May 12,2024.
+(personal communication with Jermey Henery May 9,2024)
+
+Xpert is an AI Learning Assistant provided by EdX, an online education technology company. Xpert
 
 ## Aknowledgement
 Special thanks too the [Bootcamp Spot Xpert learnig Assistant](https://bootcampspot.instructure.com/?login_success=1) for its invaluable information. It provided me with many examples and broke them down to further improve my learning.
